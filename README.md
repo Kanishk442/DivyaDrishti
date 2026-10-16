@@ -41,11 +41,7 @@ Connect your device and click **Run**.
 
 ---
 
-## Screenshots
 
-_Add screenshots or demo GIFs here to showcase your app’s features._
-
----
 
 ## Roadmap
 
